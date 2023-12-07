@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "./static/css/main.33f71d60.css",
+    "main.js": "./static/js/main.7b9e72df.js",
+    "static/js/787.0f8d78ff.chunk.js": "./static/js/787.0f8d78ff.chunk.js",
+    "static/media/Montserrat.ttf": "./static/media/Montserrat.7e687123cd4528224ce5.ttf",
+    "static/media/Santa.ttf": "./static/media/Santa.9ed1f8b12c88c1afe327.ttf",
+    "static/media/Chrysler.otf": "./static/media/Chrysler.5a36acb89b31f4da9594.otf",
+    "static/media/present.png": "./static/media/present.d9f9cc33fe1b8df2bf9f.png",
+    "index.html": "./index.html",
+    "main.33f71d60.css.map": "./static/css/main.33f71d60.css.map",
+    "main.7b9e72df.js.map": "./static/js/main.7b9e72df.js.map",
+    "787.0f8d78ff.chunk.js.map": "./static/js/787.0f8d78ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33f71d60.css",
+    "static/js/main.7b9e72df.js"
+  ]
+}
